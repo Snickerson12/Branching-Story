@@ -1,0 +1,6 @@
+c:\users\laura\documents\visual studio 2013\Projects\BranchingStory1.0\BranchingStory1.0\bin\Debug\BranchingStory1.0.exe.config
+c:\users\laura\documents\visual studio 2013\Projects\BranchingStory1.0\BranchingStory1.0\bin\Debug\BranchingStory1.0.exe
+c:\users\laura\documents\visual studio 2013\Projects\BranchingStory1.0\BranchingStory1.0\bin\Debug\BranchingStory1.0.pdb
+c:\users\laura\documents\visual studio 2013\Projects\BranchingStory1.0\BranchingStory1.0\obj\Debug\BranchingStory1.0.csprojResolveAssemblyReference.cache
+c:\users\laura\documents\visual studio 2013\Projects\BranchingStory1.0\BranchingStory1.0\obj\Debug\BranchingStory1.0.exe
+c:\users\laura\documents\visual studio 2013\Projects\BranchingStory1.0\BranchingStory1.0\obj\Debug\BranchingStory1.0.pdb
